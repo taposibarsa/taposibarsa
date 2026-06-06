@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 👋 Hi, I'm **Taposi Barsa**
-#### AI-First Full-Stack Developer · Based in Dhaka, Bangladesh 🇧🇩
+#### Full-Stack Developer · Based in Dhaka, Bangladesh 🇧🇩
 #### 📧 barsa.ipe14@gmail.com
 
 </div>
@@ -30,8 +30,8 @@ I completed **Programming Hero's Full-Stack Web Development course**, where I we
 - 🚀 Building full-stack projects with **Next.js** and **MongoDB**
 - 🤖 Exploring how to integrate **AI tools & APIs** into real-world web apps
 - 🌍 Currently working on a **Tourism Website** — full stack, responsive, production-ready
-- 📚 Leveling up in **TypeScript** and advanced **React** patterns
-- 🎯 Positioning my brand as an **AI-First Full-Stack Developer**
+- 📚 Leveling up in **JavaScript ES6** and advanced **React & Next.js** patterns
+- 🎯 Positioning my brand as an **Full-Stack Web Developer**
 
 ---
 
@@ -78,7 +78,7 @@ I completed **Programming Hero's Full-Stack Web Development course**, where I we
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=taposi-barsa&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=taposibarsa&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
@@ -109,6 +109,6 @@ I completed **Programming Hero's Full-Stack Web Development course**, where I we
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"Started with WordPress. Evolving into AI-powered full-stack development."*
+*"Making the web work — beautifully and efficiently."*
 
 </div>
