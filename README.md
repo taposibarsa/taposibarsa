@@ -10,7 +10,7 @@
 <div align="center">
 
 ### 👋 Hi, I'm **Taposi Barsa**
-#### Full-Stack Developer · Based in Dhaka, Bangladesh 🇧🇩
+#### Full-Stack Web Developer · Based in Dhaka, Bangladesh 
 #### 📧 barsa.ipe14@gmail.com
 
 </div>
